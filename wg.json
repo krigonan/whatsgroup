@@ -1887,4 +1887,39 @@
 "TelegramChannelLink":"https://t.me/WhatsGroup",
 "FormLink":"https://forms.gle/8rxYwmYnGRpBsXgg8"  }
 
-]}
+],
+
+
+
+"QuizList": [
+
+{
+"question":"Select any one option.",
+  "1":"Select option",
+  "2":"Select option",
+  "3":"Select option",
+  "4":"Select option",
+  "ans":"3"
+
+
+
+}
+
+],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
