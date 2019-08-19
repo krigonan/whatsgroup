@@ -1,0 +1,11 @@
+{ 
+"QuizList": [
+
+{ "question":"Select any one option.",
+  "1":"Select option 1",
+  "2":"Select option 2",
+  "3":"Select option 3",
+  "4":"Select option 4",
+  "answer":"3"  }
+
+]}
