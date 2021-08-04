@@ -1,61 +1,48 @@
 {
-  "level1": [
-    { "GroupName":"1/5", "GroupLink":"सच में!\nReally!\n\n ज़रूर!\nCertainly!\n\n समझ आया?\nGot it?\n\n दूर जाओ।\nGo away.\n\nचला जाए?\nDo we go?\n\n"},
-    { "GroupName":"2/5", "GroupLink":"भूल जाओ।\nForget it.\n\n बहुत बुरा!\nToo bad!\n\n खाया जाए?\nDo we eat?\n\n मस्ती करो।\nHave fun.\n\nकिसने कहा?\nWho said?\n\n"},
-    { "GroupName":"3/5", "GroupLink":"शांत रहिये।\nBe quiet.\n\n ये लीजिए।\nHere it is.\n\n कभी नहीं।\nNot at all.\n\n बहुत अच्छा!\nToo good!\n\nसमझ गये ?\nUnderstood?\n\n"}, 
-    { "GroupName":"4/5", "GroupLink":"पता है\nYou know what.\n\n गंभीर बनो।\nBe serious.\n\n इसे साफ करो।\nClean it.\n\n वह घूमता है।\nHe walks.\n\nये पाप है।\nIt’s a sin.\n\n"}, 
-    { "GroupName":"5/5", "GroupLink":"राम जाता है।\nRam goes.\n\n तेज़ बोलो।\nSpeak aloud.\n\n दूर ले जाओ।\nTake away.\n\n यह क्या है?\nWhat is it\n\nमैं कौन हूँ?\nWho am I?\n\n"}],
-  
-"level2": [
-  { "GroupName":"1/5", "GroupLink":"कौन जाता है?\nWho goes?\n\n हमेशा की तरह।\nAs usual!\n\n सावधान रहो।\nBe careful.\n\n ये मत करो।\nDon’t do it.\n\nसीधे जाना।\nGo Straight.\n\n"}, 
-  { "GroupName":"2/5", "GroupLink":"तुरन्त जाओ।\nGo at once.\n\n ऊँचा बोलो।\nSpeak aloud.\n\n दयालू बनो ।\nBe generous.\n\n शर्माओ मत।\nDon’t be shy.\n\nतैयार हो जाओ।\nGet ready.\n\n"},
-  { "GroupName":"3/5", "GroupLink":"आप कैसे हो?\nHow are you?\n\n समझ आ गया।\nI Understood.\n\n यह प्यार है।\nIt is love.\n\n मुझे जाने दो।\nLet me go.\n\nबिलकुल नहीं।\nNot at all.\n\n"},
-  { "GroupName":"4/5", "GroupLink":"राम खेलता है।\nRam plays.\n\n राम घूमता है।\nRam walks.\n\n तेज़ बोलो।\nSpeak quickly.\n\n धीरे बोलो।\nSpeak slowly.\n\nधीमे बोलो।\nSpeak softly.\n\n"},
-  { "GroupName":"5/5", "GroupLink":"क्या हुआ?\nWhat happened?\n\n तुम कौन हो?\nWho are you?\n\n कौन जानता है?\nWho knows?\n\n कौन जायेगा?\nWho will go?\n\nमेरे साथ रहो।\nBe with me.\n\n"}],
-  
-  
-"level3": [
-  { "GroupName":"1/5", "GroupLink":"आँख मत मारो।\nDo not wink.\n\n भाड़ में जाओ।\nGo to hell.\n\n ये लीजिए।\nHave it please.\n\n धैर्य रखो।\nHave patience.\n\nमैं पढूँगा।\nI will study.\n\n"},
-  { "GroupName":"2/5", "GroupLink":"कोई बात नहीं।\nNo problem.\n\n बिल्कुल नहीं!\nNot at all!\n\n भरोसा रखें।\nRest Assured.\n\n नौकरी कर लो।\nStart a job.\n\nये बहुत है।\nThis is much.\n\n"},
-  { "GroupName":"3/5", "GroupLink":"क्या हुआ ?\nWhat happened?\n\n क्या है वो?\nWhat is that?\n\n बाल बना लो।\nComb the hair.\n\n नौकरी ढूँढ लो।\nFind a job.\n\nजाकर सो जाओ।\nGo and sleep.\n\n"}, 
-  { "GroupName":"4/5", "GroupLink":"क्या हाल है ?\nHow are you?\n\n मैं नहीं गया।\nI didn’t go.\n\n सुबह हो गयी।\nIt’s Morning.\n\n मुझे देखने दो।\nLet me see.\n\nचलो टहलते हैं।\nLet’s walk.\n\n"}, 
-  { "GroupName":"5/5", "GroupLink":"और कुछ नहीं।\nNothing else.\n\n ढक्कन खोल दो।\nOpen the lid\n\n एक नल था।\nThere was a tap.\n\n आप कहाँ हो?\nWhere are you?\n\nये किसने किया?\nWho did it?\n\n"}],
 
-"level4": [
-    { "GroupName":"1/5", "GroupLink":"मेरे साथ चलो।\nCome with me.\n\n वो अजीब था।\nHe was awkward.\n\n मैं दुखी हो गया।\nI got sad.\n\n 6 साल लगे।\nIt took 6 years.\n\nटेबल लगा लो।\nLay the table.\n\n"},
-    { "GroupName":"2/5", "GroupLink":"बारिश होने दो।\nLet it rain.\n\n समय देखो।\nLook at the time.\n\n चाहे जो हो!\nNo matter what!\n\n उसे विदा कर दो।\nSee him off\n\nखूब मुस्कुराओ।\nSmile a lot.\n\n"}, 
-    { "GroupName":"3/5", "GroupLink":"कहीं नज़र न लगे।\nTouch wood!\n\n मुझ पर भरोसा रखो।\nTrust me.\n\n नल खोल दो।\nTurn on the tap.\n\n ये किसका है?\nWhose is this?\n\nतुम अच्छे हो।\nYou are good.\n\n"}, 
-    { "GroupName":"4/5", "GroupLink":"नाक साफ करो।\nBlow your nose.\n\n हिचकिचाओ मत।\nDon’t hesitate.\n\n बक बक मत करो।\nDon’t prattle.\n\n बहुत मज़ा आया!\nEnjoyed a lot!\n\nआराम से बैठिए।\nFeel at home.\n\n"}, 
-    { "GroupName":"5/5", "GroupLink":"वो रो रहा है।\nHe is weeping.\n\n मैं खुश हो गया।\nI got happy.\n\n उन्हें जाने दो।\nLet them go.\n\n फिर मिलेंगे।\nMeet you again.\n\nखाना लगा दो।\nServe the food.\n\n"}],
-  
-"level5": [{ "GroupName":"1/5", "GroupLink":"नल खोल दो |\nTurn the tap on.\n\n शर्ट पहन लो।\nWear the shirt.\n\n क्या करुँ मैं?\nWhat do I do?\n\n वहाँ क्या है?\nWhat is there?\n\nये कौन करता है?\nWho does it?\n\n"}, 
-           { "GroupName":"2/5", "GroupLink":"धूप सेंक लो।\nBask in the sun.\n\n इशारा मत करो।\nDo not gesture.\n\n मुझे मत सताओ।\nDon’t annoy me.\n\n चालाक मत बनो।\nDon’t be smart.\n\nखाली मत बैठो।\nDon’t sit idle.\n\n"}, 
-           { "GroupName":"3/5", "GroupLink":"इसे मत छेड़ो।\nDon’t touch it.\n\n ये लो, मैं आ गया ।\nHere I am.\n\n मैंने नहीं कहा।\nI didn’t say.\n\n मैं डरा हुआ था।\nI was scared.\n\nक्या राम अंदर है ?\nIs Ram in?\n\n"}, 
-            { "GroupName":"4/5", "GroupLink":"कोई बात नहीं।\nIt’s all right.\n\n आटा गूंथ लो।\nKnead the flour.\n\n मेरी बात सुनो |\nListen to me.\n\n कल मिलेंगे।\nSee you tomorrow.\n\nवो थकी हुई थी।\nShe was tired.\n\n"}, 
-           { "GroupName":"5/5", "GroupLink":"कुछ बढ़िया।\nSomething worthy!\n\n सुमित यहाँ है।\nSumit is here.\n\n एसी ऑन करो।\nSwitch on the AC.\n\n भगवान का शुक्र है!\nThank God!\n\nनल खोल दो।\nTurned on the tap.\n\n"}],
-"level6": [{ "GroupName":"1/5", "GroupLink":"वो कहाँ गया?\nWhere did he go?\n\n डाँस किसने किया ?\nWho danced?\n\n दोषी कौन है ?\nWho is culprit?\n\n तुम कायर हो ।\nYou are coward.\n\nतुम डरपोक हो।\nYou are coward.\n\n"}, 
-           { "GroupName":"2/5", "GroupLink":"ज्यादा मत खाओ।\nDo not overeat.\n\n गुस्सा मत हो।\nDon’t be annoyed\n\n दूसरा ले लो।\nHave another one.\n\n उसके पास पैन था।\nHe had a pen.\n\nवह सोया हुआ था।\nHe was asleep.\n\n"}, 
-           { "GroupName":"3/5", "GroupLink":"ये लीजिए पैन।\nHere is the pen.\n\n मेरे पास कार है।\nI have a car.\n\n मुझे खेलना है।\nI have to play.\n\n इंडिया जीतेगी।\nIndia will win.\n\nकोई है क्या?\nIs someone there?\n\n"}, 
-           { "GroupName":"4/5", "GroupLink":"2 मिनट लगे।\nIt took 2 minutes.\n\n बारिश हो रही है।\nIt’s raining.\n\n लैम्प जला दो |\nLight the lamp.\n\n कुछ खास नहीं।\nNothing special!\n\nजूते पहन लो।\nPut on the shoes.\n\n"}, 
-           { "GroupName":"5/5", "GroupLink":"वह एक लड़का है।\nThat is a boy.\n\n एक सांप था।\nThere was a snake.\n\n ये बेकार है ।\nThis is useless.\n\n सीधा लेटो।\nTurn your chest up.\n\nमेरा इंतजार करना।\nWait for me.\n\n"}],
-"level7": [{ "GroupName":"1/5", "GroupLink":"हम तुम्हारे हैं।\nWe are yours.\n\n आप कब आये ?\nWhen did you come?\n\n आप कब आये?\nWhen did you come?\n\n कौन- कौन जाते हैं?\nWho all go?\n\nक्या बारिश होगी?\nWill it rain?\n\n"}, 
-           { "GroupName":"2/5", "GroupLink":"तुम सीख जाओगे।\nYou will learn.\n\n क्या आप श्योर हो?\nAre you sure?\n\n फर्श साफ करो |\nClean the floor.\n\n अपने बाल बना लो।\nComb you hair.\n\nज़िद मत करो।\nDon’t be stubborn.\n\n"}, 
-           { "GroupName":"3/5", "GroupLink":"उसे मत देखो।\nDon’t look at him.\n\n शोर मत करो।\nDon’t make a noise.\n\n कितना बकवास है!\nHow disgusting!\n\n कितना बकवास है!\nHow ridiculous!\n\nमैं हँस रहा हूँ।\nI am laughing.\n\n"}, 
-           { "GroupName":"4/5", "GroupLink":"मैं सीख रहा हूँ।\nI am learning.\n\n मैं पढ़ रहा हूँ।\nI am studying.\n\n मैं नहीं मानता ।\nI don’t agree.\n\n क्या राम अच्छा है?\nIs Ram good?\n\nये चर्चा में है।\nIt is in talk.\n\n"}, 
-           { "GroupName":"5/5", "GroupLink":"ये लिखा हुआ था।\nIt was written.\n\n ज़ाहिर सी बात है।\nIt’s obvious.\n\n यह बहुत दूर है।\nIt’s quite far.\n\n उसे ढूँढने दो।\nLet him find out\n\nआप मुझे बोलने दो।\nLet me speak.\n\n"}],
-"level8": [{ "GroupName":"1/5", "GroupLink":"मशीन चलाओ।\nOperate the machine.\n\n बिस्तर लगा दो।\nPrepare the bed.\n\n राम सोया हुआ है।\nRam is asleep.\n\n क्या उसे भेजा गया?\nWas he sent?\n\nतुम एक लड़की हो।\nYou are a girl.\n\n"}, 
-           { "GroupName":"2/5", "GroupLink":"आपका स्वागत है\nYou are welcome.\n\n उसे गाली मत दो।\nDon’t abuse him.\n\n जल्दबाजी मत करो।\nDon’t be hasty.\n\n शरारती मत बनो।\nDon’t be naughty.\n\nज़िद मत करो ।\nDon’t be stubborn.\n\n"}, 
-           { "GroupName":"3/5", "GroupLink":"उसे मत घूरो।\nDon’t stare at him.\n\n ट्रेन पर चढो ।\nGet in the train.\n\n क्या मुझे जाना है?\nHave I to go?\n\n वह कांप रहा है।\nHe is shivering.\n\nलीजिए, आप आ गये।\nHere comes you.\n\n"}, 
-           { "GroupName":"4/5", "GroupLink":"वो कैसे जाता है?\nHow does he go?\n\n तुम कैसे जाओगे?\nHow will you go?\n\n मैं पढ़ा रहा हूँ।\nI am teaching.\n\n मैं कहता हूँ, रूको।\nI say, stop.\n\nयह बहुत दूर है ।\nIt’s quite far.\n\n"}, 
-           { "GroupName":"5/5", "GroupLink":"थोड़ा खिसकिए।\nKindly move a bit.\n\n ड्राइविंग सीख लो।\nLearn driving.\n\n खुद से प्यार करो।\nLove yourself.\n\n मम्मी घर पर हैं।\nMom is at home.\n\nएक घूँट भी नहीं!\nNot even a sip!\n\n"}],
-"level9": [{ "GroupName":"1/5", "GroupLink":"एसी बन्द करो।\nSwitch off the AC.\n\n मुझे सच बताओ।\nTell me the truth.\n\n नल बन्द कर दो।\nTurn off the tap.\n\n नल बंद कर दो |\nTurn the tap off.\n\nदिमाग से काम लो।\nUse your brain.\n\n"}, 
-           { "GroupName":"2/5", "GroupLink":"हम बैठे हुए थे।\nWe were sitting.\n\n क्या खुशबू है!\nWhat a fragrance!\n\n आप क्या करते हो?\nWhat do you do?\n\n क्या बात है?\nWhat is the matter?\n\nक्या चल रहा है?\nWhat’s going on?\n\n"}, 
-           { "GroupName":"3/5", "GroupLink":"तुम कब सोये?\nWhen did you sleep?\n\n कौन कौन जानते हैं?\nWho all know?\n\n वो लड़का कौन है?\nWho is that boy?\n\n आप झुठ बोल रहे हो\nYou are lying.\n\nतुम हमें जाने दो।\nYou let us go.\n\n"}, 
-           { "GroupName":"4/5", "GroupLink":"मुद्दे पर आइए।\nCome to the point.\n\n आवेश में न आओ।\nDon’t get excited.\n\n यहाँ मत उतरो।\nDon’t get off here.\n\n हल्ला मत करो।\nDon’t make a noise.\n\nजल्दी ठीक हो जाइए।\nGet well soon.\n\n"}, 
-           { "GroupName":"5/5", "GroupLink":"आपका दिन शुभ हो!\nHave a nice day!\n\n वह मेरा भाई है।\nHe is my brother.\n\n गरीबों की मदद करो।\nHelp the poor.\n\n ये लीजिए पैसे।\nHere is the money.\n\nमैं थक रहा हूँ।\nI am being tired.\n\n"}],
-"level10": [{ "GroupName":"1/5", "GroupLink":"मैं खाना खा रहा हूँ।\nI am eating.\n\n मैं घूमने गया।\nI went for a walk.\n\n अंधेरा हो गया है।\nIt’s got dark.\n\n यह मेरी ख्वाहिश है।\nIt’s my will.\n\nआग जली रहने दो।\nKeep the fire on.\n\n"}, 
-           { "GroupName":"2/5", "GroupLink":"ध्यान से सुनो |\nListen carefully.\n\n आलू छील दो।\nPeel off the potatoes\n\n ध्यान दीजिए।\nPlease Pay attention\n\n उल्टा घूमो।\nPlease turn opposite.\n\nलैम्प बुझा दो |\nPut out the lamp.\n\n"}, 
-           { "GroupName":"3/5", "GroupLink":"शर्ट उतार लो।\nTake off the shirt.\n\n जूते उतार लो।\nTake off the shoes.\n\n यह एक कुर्सी है।\nThis is a chair.\n\n यह एक अफवाह है।\nThis is a rumour.\n\nयह मेरी घड़ी है।\nThis is my watch.\n\n"}, 
-           { "GroupName":"4/5", "GroupLink":"ये मैं ही हूँ।\nThis is really me.\n\n दबे पाँव चलो।\nWalk on the tiptoe.\n\n क्या चल रहा है?\nWhat is going on?\n\n बारिश कब होगी?\nWhen will it rain?\n\nकौन नहीं जाता है?\nWho doesn’t go?\n\n"}, 
-           { "GroupName":"5/5", "GroupLink":"वो लड़की कौन है?\nWho is that girl?\n\n तुम ऐसे क्यों हो?\nWhy are you so?\n\n तुम में कला है।\nYou have the art.\n\n तुम अच्छे लगते हो।\nYou look good.\n\nपागल हो क्या?\nAre you mad or what?\n\n"}]
-}
+"level01": [
+{ "GroupName":"1/5", "GroupLink":"सच में!\nReally!\n\nज़रूर!\nCertainly!\n\nसमझ आया?\nGot it?\n\nदूर जाओ।\nGo away.\n\nचला जाए?\nDo we go?\n\nलीजिए, आप आ गये।\nHere, comes you.\n\n "},
+{ "GroupName":"2/5", "GroupLink":"भूल जाओ।\nForget it.\n\nबहुत बुरा!\nToo bad!\n\nखाया जाए?\nDo we eat?\n\nमस्ती करो।\nHave fun.\n\nकिसने कहा?\nWho said?\n\n "},
+{ "GroupName":"3/5", "GroupLink":"शांत रहिये।\nBe quiet.\n\nये लीजिए।\nHere it is.\n\nकभी नहीं।\nNot at all.\n\nबहुत अच्छा!\nToo good!\n\nसमझ गये ?\nUnderstood?\n\n "},
+{ "GroupName":"4/5", "GroupLink":"पता है\nYou know what.\n\nगंभीर बनो।\nBe serious.\n\nइसे साफ करो।\nClean it.\n\nवह घूमता है।\nHe walks.\n\nये पाप है।\nIt’s a sin.\n\n "},
+{ "GroupName":"5/5", "GroupLink":"राम जाता है।\nRam goes.\n\nतेज़ बोलो।\nSpeak aloud.\n\nदूर ले जाओ।\nTake away.\n\nयह क्या है?\nWhat is it\n\nमैं कौन हूँ?\nWho am I?\n https://play.google.com/store/apps/details?id=com.fast.englishspeaking \n "}
+],
+"level02": [
+{ "GroupName":"1/5", "GroupLink":"कौन जाता है?\nWho goes?\n\nहमेशा की तरह।\nAs usual!\n\nसावधान रहो।\nBe careful.\n\nये मत करो।\nDon’t do it.\n\nसीधे जाना।\nGo Straight.\n\n "},
+{ "GroupName":"2/5", "GroupLink":"तुरन्त जाओ।\nGo at once.\n\nऊँचा बोलो।\nSpeak aloud.\n\nदयालू बनो ।\nBe generous.\n\nशर्माओ मत।\nDon’t be shy.\n\nतैयार हो जाओ।\nGet ready.\n\n "},
+{ "GroupName":"3/5", "GroupLink":"आप कैसे हो?\nHow are you?\n\nसमझ आ गया।\nI Understood.\n\nयह प्यार है।\nIt is love.\n\nमुझे जाने दो।\nLet me go.\n\nबिलकुल नहीं।\nNot at all.\n\n "},
+{ "GroupName":"4/5", "GroupLink":"राम खेलता है।\nRam plays.\n\nराम घूमता है।\nRam walks.\n\nतेज़ बोलो।\nSpeak quickly.\n\nधीरे बोलो।\nSpeak slowly.\n\nधीमे बोलो।\nSpeak softly.\n\n "},
+{ "GroupName":"5/5", "GroupLink":"क्या हुआ?\nWhat happened?\n\nतुम कौन हो?\nWho are you?\n\nकौन जानता है?\nWho knows?\n\nकौन जायेगा?\nWho will go?\n\nमेरे साथ रहो।\nBe with me.\n\n "}
+],
+"level03": [
+
+{ "GroupName":"1/5", "GroupLink":"आँख मत मारो।\nDo not wink.\n\nभाड़ में जाओ।\nGo to hell.\n\nये लीजिए।\nHave it please.\n\nधैर्य रखो।\nHave patience.\n\nमैं पढूँगा।\nI will study.\n\n "},
+{ "GroupName":"2/5", "GroupLink":"कोई बात नहीं।\nNo problem.\n\nबिल्कुल नहीं!\nNot at all!\n\nभरोसा रखें।\nRest Assured.\n\nनौकरी कर लो।\nStart a job.\n\nये बहुत है।\nThis is much.\n\n "},
+{ "GroupName":"3/5", "GroupLink":"क्या हुआ ?\nWhat happened?\n\nक्या है वो?\nWhat is that?\n\nबाल बना लो।\nComb the hair.\n\nनौकरी ढूँढ लो।\nFind a job.\n\nजाकर सो जाओ।\nGo and sleep.\n\n "},
+{ "GroupName":"4/5", "GroupLink":"क्या हाल है ?\nHow are you?\n\nमैं नहीं गया।\nI didn’t go.\n\nसुबह हो गयी।\nIt’s Morning.\n\nमुझे देखने दो।\nLet me see.\n\nचलो टहलते हैं।\nLet’s walk.\n\n "},
+{ "GroupName":"5/5", "GroupLink":"और कुछ नहीं।\nNothing else.\n\nढक्कन खोल दो।\nOpen the lid\n\nएक नल था।\nThere was a tap.\n\nआप कहाँ हो?\nWhere are you?\n\nये किसने किया?\nWho did it?\n\n "}
+],
+"level04": [
+
+{ "GroupName":"1/5", "GroupLink":"मेरे साथ चलो।\nCome with me.\n\nवो अजीब था।\nHe was awkward.\n\nमैं दुखी हो गया।\nI got sad.\n\n6 साल लगे।\nIt took 6 years.\n\nटेबल लगा लो।\nLay the table.\n\n "},
+{ "GroupName":"2/5", "GroupLink":"बारिश होने दो।\nLet it rain.\n\nसमय देखो।\nLook at the time.\n\nचाहे जो हो!\nNo matter what!\n\nउसे विदा कर दो।\nSee him off\n\nखूब मुस्कुराओ।\nSmile a lot.\n\n "},
+{ "GroupName":"3/5", "GroupLink":"कहीं नज़र न लगे।\nTouch wood!\n\nमुझ पर भरोसा रखो।\nTrust me.\n\nनल खोल दो।\nTurn on the tap.\n\nये किसका है?\nWhose is this?\n\nतुम अच्छे हो।\nYou are good.\n\n "},
+{ "GroupName":"4/5", "GroupLink":"नाक साफ करो।\nBlow your nose.\n\nहिचकिचाओ मत।\nDon’t hesitate.\n\nबक बक मत करो।\nDon’t prattle.\n\nबहुत मज़ा आया!\nEnjoyed a lot!\n\nआराम से बैठिए।\nFeel at home.\n\n "},
+{ "GroupName":"5/5", "GroupLink":"वो रो रहा है।\nHe is weeping.\n\nमैं खुश हो गया।\nI got happy.\n\nउन्हें जाने दो।\nLet them go.\n\nफिर मिलेंगे।\nMeet you again.\n\nखाना लगा दो।\nServe the food.\n\n "}
+],
+"level05": [
+
+{ "GroupName":"1/5", "GroupLink":"नल खोल दो |\nTurn the tap on.\n\nशर्ट पहन लो।\nWear the shirt.\n\nक्या करुँ मैं?\nWhat do I do?\n\nवहाँ क्या है?\nWhat is there?\n\nये कौन करता है?\nWho does it?\n\n "},
+{ "GroupName":"2/5", "GroupLink":"धूप सेंक लो।\nBask in the sun.\n\nइशारा मत करो।\nDo not gesture.\n\nमुझे मत सताओ।\nDon’t annoy me.\n\nचालाक मत बनो।\nDon’t be smart.\n\nखाली मत बैठो।\nDon’t sit idle.\n\n "},
+{ "GroupName":"3/5", "GroupLink":"इसे मत छेड़ो।\nDon’t touch it.\n\nये लो, मैं आ गया ।\nHere I am.\n\nमैंने नहीं कहा।\nI didn’t say.\n\nमैं डरा हुआ था।\nI was scared.\n\nक्या राम अंदर है ?\nIs Ram in?\n\n "},
+{ "GroupName":"4/5", "GroupLink":"कोई बात नहीं।\nIt’s all right.\n\nआटा गूंथ लो।\nKnead the flour.\n\nमेरी बात सुनो |\nListen to me.\n\nकल मिलेंगे।\nSee you tomorrow.\n\nवो थकी हुई थी।\nShe was tired.\n\n "},
+{ "GroupName":"5/5", "GroupLink":"कुछ बढ़िया।\nSomething worthy!\n\nसुमित यहाँ है।\nSumit is here.\n\nएसी ऑन करो।\nSwitch on the AC.\n\nभगवान का शुक्र है!\nThank God!\n\nनल खोल दो।\nTurned on the tap.\n\n "}
+],
+"level06": [
+
+{ "GroupName":"1/5", "GroupLink":"वो कहाँ गया?\nWhere did he go?\n\nडाँस किसने किया ?\nWho danced?\n\nदोषी कौन है ?\nWho is culprit?\n\nतुम कायर हो ।\nYou are coward.\n\nतुम डरपोक हो।\nYou are coward.\n\n "},
+{ "GroupName":"2/5", "GroupLink":"ज्यादा मत खाओ।\nDo not overeat.\n\nगुस्सा मत हो।\nDon’t be annoyed\n\nदूसरा ले लो।\nHave another one.\n\nउसके पास पैन था।\nHe had a pen.\n\nवह सोया हुआ था।\nHe was asleep.\n\n "},
+{ "GroupName":"3/5", "GroupLink":"ये लीजिए पैन।\nHere is the pen.\n\nमेरे पास कार है।\nI have a car.\n\nमुझे खेलना है।\nI have to play.\n\nइंडिया जीतेगी।\nIndia will win.\n\nकोई है क्या?\nIs someone there?\n\n "},
+{ "GroupName":"4/5", "GroupLink":"2 मिनट लगे।\nIt took 2 minutes.\n\nबारिश हो रही है।\nIt’s raining.\n\nलैम्प जला दो |\nLight the lamp.\n\nकुछ खास नहीं।\nNothing special!\n\nजूते पहन लो।\nPut on the shoes.\n\n "},
+{ "GroupName":"5/5", "GroupLink":"वह एक लड़का है।\nThat is a boy.\n\nएक सांप था।\nThere was a snake.\n\nये बेकार है ।\nThis is useless.\n\nसीधा लेटो।\nTurn your chest up.\n\nमेरा इंतजार करना।\nWait for me.\n\n "}
+]}
